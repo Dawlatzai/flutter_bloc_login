@@ -39,7 +39,7 @@ class LoginScreen extends StatelessWidget {
 
   Widget _submitButton() {
     return RaisedButton(
-      child: Text('Submit'),
+      child: Text('Login'),
       color: Colors.blue,
       onPressed: () {},
     );
