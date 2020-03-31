@@ -10,7 +10,7 @@ class LoginScreen extends StatelessWidget {
           _emailField(),
           _passwordField(),
           Container(
-            margin: EdgeInsets.only(bottom: 25.0),
+            margin: EdgeInsets.only(top: 25.0),
           ),
           _submitButton(),
         ],
